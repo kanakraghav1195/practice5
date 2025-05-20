@@ -1,2 +1,6 @@
 
-kanak raghav is very sweet girl.
+class Practice{
+public static void main(String[] args){
+System.out.println("Hello my self kanak");
+}
+}
